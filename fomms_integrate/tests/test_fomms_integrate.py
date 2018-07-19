@@ -1,5 +1,5 @@
 """
-Testing the integrate package
+Testing the integrate package with pytest 
 """
 
 # Import package, test suite, and other packages as needed
